@@ -341,3 +341,70 @@ li {
     list-style-type: none;
     margin-bottom: 8px;
 }
+
+@media only screen and (min-width: 360px) and (max-width: 845px) {
+    .input input {
+        height: 33px;
+        width: 250px;
+        border: none;
+    }
+    .img {
+        width : 700px;
+        height : 240px;
+    }
+    .header-1 {
+        width : 700px;
+    }
+    .second-part {
+        width: 700px;
+    }
+    .address {
+        width : 600px;
+        font-size : 8px;
+        height : 30px;
+        top : 40%;
+    }
+    .div {
+        width : 700px;
+    }
+    .bx-1 {
+        width : 330px;
+    }
+    .bx-2 {
+        width : 330px;
+    }
+    .bx-3 {
+        width : 330px;
+    }
+    .bx-4 {
+        width : 330px;
+    }
+    .bx-5 {
+        width : 330px;
+    }
+    .bx-6 {
+        width : 330px;
+    }
+    .bx-7 {
+        width : 330px;
+    }
+    .bx-8 {
+        width : 330px;
+    }
+    .foot-1 {
+        width : 700px;
+    }
+    .foot-2 {
+        width : 700px;
+        height : 450px;
+    }
+    .logo2 {
+        width : 700px;
+    }
+    .block1 {
+        margin-left : 50px;
+    }
+    .block4 {
+        margin-right : 70px;
+    }
+}
